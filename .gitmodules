@@ -1,0 +1,3 @@
+[submodule "binpoll-front-triple-stimulus"]
+	path = binpoll-front-triple-stimulus
+	url = https://github.com/Niekarp/binpoll-front-triple-stimulus.git
